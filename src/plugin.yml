@@ -1,0 +1,9 @@
+name: ElydriaIdea
+version: "0.0.1"
+main: fr.elydria.idea.Main
+authors: [Glopeur]
+api-version: 1.13
+commands:
+  elydriaidea:
+    description: Main command
+    aliases: [eidea]
